@@ -9,6 +9,8 @@ public class AppMain {
 		System.out.println((char)a);
 		
 		System.out.println((byte)a);
+		
+		System.out.println((short)a);
 	}
 
 }
